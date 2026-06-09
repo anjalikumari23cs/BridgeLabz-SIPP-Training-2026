@@ -9,5 +9,6 @@ public class rocketLaunchCounter {
             System.out.println(counter);
             counter--;
         }
+        sc.close();
     }
 }
