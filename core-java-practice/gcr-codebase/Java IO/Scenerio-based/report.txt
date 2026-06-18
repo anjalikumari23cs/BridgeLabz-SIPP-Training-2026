@@ -1,0 +1,3 @@
+Name: Anjali | Average: 87.66666666666667
+Name: Rahul | Average: 80.0
+Name: Priya | Average: 92.33333333333333
